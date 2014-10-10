@@ -1,0 +1,2 @@
+Every post must have an image with 950x250
+Put the images inside the images folder and add them to the post by using the cover variable.
